@@ -2,6 +2,7 @@ function toggleTheme() {
     let body = document.body
     let btn = document.getElementById("themeBtn")
     
+    
     if (body.style.backgroundColor === "white") {
         body.style.backgroundColor = "#0a0a0a"
         body.style.color = "#e0e0e0"
@@ -36,3 +37,20 @@ function toggleTheme() {
         })
     }
 }
+document.addEventListener("keydown", function(event) {
+    if (event.key === "t") {
+        toggleTheme()
+    }
+})
+let cards = document.querySelectorAll("li")
+cards.forEach(function(card) {
+    card.addEventListener("mouseover", function() {
+        card.style.borderLeft = "3px solid #ffffff"
+        card.style.transform = "translateX(5px)"
+    })
+    
+    card.addEventListener("mouseout", function() {
+        card.style.borderLeft = "3px solid #4f9eff"
+        card.style.transform = "translateX(0px)"
+    })
+})
