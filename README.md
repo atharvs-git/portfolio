@@ -1,5 +1,4 @@
-
-
-Hi there , I'm Atharv Gupta
-I am a passionate developer focused on building projects with Python.
-I am currently working on different projects and learning , applying JS , HTML and CSS , Python for Backend.
+I'm a Sophomore CSE student passionate about building real software. 
+I specialize in Python and JavaScript, and I love turning ideas into 
+working products. Currently focused on full stack web development and 
+working towards my first internship.
