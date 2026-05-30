@@ -1,4 +1,25 @@
+# Atharv Gupta — Portfolio
+
+Personal portfolio website showcasing my projects and skills as a CSE student and developer.
+
+## 🔗 Live Site
+[atharvgupta-dev.github.io/portfolio](https://atharvgupta-dev.github.io/portfolio)
+
+## 👨‍💻 About
 I'm a Sophomore CSE student passionate about building real software. 
-I specialize in Python and JavaScript, and I love turning ideas into 
-working products. Currently focused on full stack web development and 
-working towards my first internship.
+Currently learning full stack web development and working towards my first internship.
+
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
+
+## 📁 Featured Projects
+- [AI Chat Interface](https://github.com/atharvgupta-dev/ai-chat) — Conversational AI powered by Groq's Llama 3
+- [Crypto Price Tracker](https://github.com/atharvgupta-dev/crypto-tracker) — Live crypto prices via CoinGecko API
+- [Movie Search App](https://github.com/atharvgupta-dev/movie-search) — Movie details via OMDB API
+- [Weather App](https://github.com/atharvgupta-dev/python-journey) — Live weather via OpenWeatherMap API
+
+## 📬 Connect
+- [LinkedIn](https://linkedin.com/in/atharvgupta-dev)
+- [GitHub](https://github.com/atharvgupta-dev)
