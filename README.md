@@ -10,10 +10,11 @@ I'm a Sophomore CSE student passionate about building real software.
 Currently learning full stack web development and working towards my first internship.
 
 ## 🛠️ Built With
-- HTML
-- CSS
-- JavaScript
-- React
+- HTML, CSS, JavaScript
+- React.js
+- REST APIs
+- Git & GitHub
+- Vercel (deployment)
 
 ## 📁 Featured Projects
 - [GitHub Analyzer](https://github-analyzer-amber.vercel.app/) — Search any GitHub profile and instantly see stats, top repositories and developer insights. Built with React and GitHub API.
