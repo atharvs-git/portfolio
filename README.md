@@ -13,6 +13,7 @@ Currently learning full stack web development and working towards my first inter
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## 📁 Featured Projects
 - [GitHub Analyzer](https://github-analyzer-amber.vercel.app/) — Search any GitHub profile and instantly see stats, top repositories and developer insights. Built with React and GitHub API.
