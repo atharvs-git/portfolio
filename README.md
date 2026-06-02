@@ -18,10 +18,7 @@ Currently learning full stack web development and working towards my first inter
 
 ## 📁 Featured Projects
 - [GitHub Analyzer](https://github-analyzer-amber.vercel.app/) — Search any GitHub profile and instantly see stats, top repositories and developer insights. Built with React and GitHub API.
-- [AI Chat Interface](https://github.com/atharvgupta-dev/ai-chat-interface) — Conversational AI powered by Groq's Llama 3
-- [Crypto Price Tracker](https://github.com/atharvgupta-dev/crypto-price-tracker) — Live crypto prices via CoinGecko API
-- [Movie Search App](https://github.com/atharvgupta-dev/movie-search) — Movie details via TMDB API
-- [Weather App](https://github.com/atharvgupta-dev/python-journey) — Live weather via OpenWeatherMap API
+
 
 ## 📬 Connect
 - [LinkedIn](https://linkedin.com/in/atharvgupta-dev)
