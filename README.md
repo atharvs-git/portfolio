@@ -13,7 +13,7 @@ Currently learning full stack web development and working towards my first inter
 - HTML, CSS, JavaScript
 - React.js
 - REST APIs
-- Git & GitHub
+- Git & GitHub (version control)
 - Vercel (deployment)
 
 ## 📁 Featured Projects
