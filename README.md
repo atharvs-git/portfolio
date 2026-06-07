@@ -17,7 +17,7 @@ Currently learning full stack web development and working towards my first inter
 - Vercel (deployment)
 
 ## 📁 Featured Projects
-- [GitBeacon](https://github-analyzer-amber.vercel.app/) — Search any GitHub profile and instantly see stats, top repositories and developer insights. Built with React and GitHub API.
+- [GitBeacon](https://github-analyzer-amber.vercel.app/) — Search any GitHub profile and instantly see stats, top repositories and developer insights. Built with React and GitHub API and GraphQL API.
 
 
 ## 📬 Connect
