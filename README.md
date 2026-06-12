@@ -15,7 +15,7 @@ I'm a second-year CSE student who learns by building, breaking, and shipping rea
 
 ## 📁 Featured Projects
 
-### 🚀 [GitBeacon](https://github-analyzer-amber.vercel.app/)
+### 🚀 [GitBeacon](https://git-beacon.vercel.app/)
 *Search any GitHub profile and instantly get stats, top repositories, and developer insights.*
 *   **Key Features:** Real-time profile tracking, dynamic repository analysis, and clean developer data visualization.
 *   **Built With:** React.js, GitHub REST API, GraphQL API, and deployed on Vercel.
