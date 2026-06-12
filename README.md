@@ -22,5 +22,5 @@ I'm a second-year CSE student who learns by building, breaking, and shipping rea
 *   **Source Code:** [GitHub Repository](https://github.com/atharvgupta-dev/GitBeacon)
 
 ## 📬 Connect With Me
-*   **LinkedIn:** [linkedin.com/in/atharvgupta-dev](https://linkedin.com/in/atharvgupta-dev)
+*   **LinkedIn:** [linkedin.com/in/atharv-guptadev](https://linkedin.com/in/atharvgupta-dev)
 *   **GitHub:** [github.com/atharvgupta-dev](https://github.com/atharvgupta-dev)
